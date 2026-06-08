@@ -58,3 +58,5 @@ src/renderer/next-app/
 
 # Backup
 backup/
+.env*
+.env.*
